@@ -29,7 +29,7 @@ The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-2. git clone: (https://github.com/kausik-t/EDA_Demo.git)
+2. git clone: (https://github.com/mothilal-k/EDA_demo.git)
 3.Install the required dependencies:
 pip install -r requirements.txt
 4. Run the Colab notebook:
