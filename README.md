@@ -1,6 +1,3 @@
-# EDA DEMO
-
-
 # Kidney Disease Prediction
 
 This project aims to predict the presence of kidney disease based on various symptoms and demographics information using machine learning techniques.
